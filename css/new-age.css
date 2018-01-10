@@ -50,7 +50,8 @@ section {
 
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
-  background-color: white;
+  
+  ground-color: white;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s;
@@ -204,7 +205,7 @@ section.features .feature-item {
 section.cta {
   position: relative;
   padding: 250px 0;
-  background-image: url("../img/bg-cta.jpg");
+  background-image: url("http://hk.on.cc/hk/bkn/cnt/finance/20160426/photo/bkn-20160426161255159-0426_00842_001_01p.jpg?20160426161346");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
